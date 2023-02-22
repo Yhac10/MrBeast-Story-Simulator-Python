@@ -1,0 +1,6 @@
+input("One day, MrBeast gave away...\n")
+input("...to a...\n")
+input("...named...\n")
+input("MrBeast was very...\n")
+input("...when he gave away the...\n") 
+input("The end.")
